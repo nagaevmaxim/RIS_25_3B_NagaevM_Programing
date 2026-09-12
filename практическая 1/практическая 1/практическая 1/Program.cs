@@ -1,18 +1,17 @@
 ﻿using практическая_1;
 
 Console.Write("Задача 1:\n\n");
-var n = 0;
-InputFunctions.ReadInput("n", ref n);
-var m = 0;
-InputFunctions.ReadInput("m", ref m);
+int n, m;
+InputFunctions.ReadInput("n", out n);
+InputFunctions.ReadInput("m", out m);
 
 
 Console.WriteLine($"\nВыражение n++*--m = {n++ * --m}");
 Console.WriteLine($"Выражение n--<m++ = {n-- < m++}");
 Console.WriteLine($"Выражение --n>--m = {--n > --m}");
 
-var x = 0.0;
-InputFunctions.ReadInput("x", ref x);
+double x;
+InputFunctions.ReadInput("x", out x);
 
 Console.Write("\nПопытка вычислить занчение выражения (abs(x+1))^(1/4)+1/x^2\n");
 
@@ -27,11 +26,10 @@ else
 
 Console.Write("\nЗадача 2:\n");
 
-var x1 = 0.0;
-var y1 = 0.0;
+double x1, y1;
 
-InputFunctions.ReadInput("X_1",ref x1);
-InputFunctions.ReadInput("Y_1", ref y1);
+InputFunctions.ReadInput("X_1", out x1);
+InputFunctions.ReadInput("Y_1", out y1);
 
 var inArea = ((x1 * y1 >= 0) && ((y1 <= 1 - x1) && (y1 >= -1 - x1))) 
     || ((x1 * y1 < 0) && ((Math.Pow(x1, 2) + Math.Pow(y1, 2)) <= 1));

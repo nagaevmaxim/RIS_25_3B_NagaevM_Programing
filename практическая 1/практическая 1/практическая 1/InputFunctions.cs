@@ -6,7 +6,7 @@ namespace практическая_1
 {
     internal class InputFunctions
     {
-        public static void ReadInput(string num_name, ref int output)
+        public static void ReadInput(string num_name, out int output)
         {
             Console.Write($"Введите число {num_name}:");
             var input = Console.ReadLine();
@@ -20,7 +20,7 @@ namespace практическая_1
            
         }
 
-        public static void ReadInput(string num_name, ref double output)
+        public static void ReadInput(string num_name, out double output)
         {
             Console.Write($"Введите число {num_name}:");
             var input = Console.ReadLine();
