@@ -24,6 +24,10 @@ namespace lab_5
 
         private static void fillArr(ref int[][] arr, int startInd)
         {
+            Console.WriteLine("Выберите способ заполнения: 0. Рандомные числа. 1.Числа с клавиатуры:");
+            uint fillMethod;
+            InputFunctions.ReadInput("0-1", out fillMethod);
+
             for (var i = startInd; i < arr.Length; i++)
             {
                 uint len;
@@ -31,10 +35,18 @@ namespace lab_5
                 arr[i] = new int[len];
                 for(var j  = 0; j < len; j++)
                 {
-                    arr[i][j] = rand.Next() % 1000;
+                    if (fillMethod == 1)
+                    {
+                        arr[i][j] = rand.Next() % 1000;
+                    }
+                    else
+                    {
+                        InputFunctions.ReadInput($"arr[{i}][{j}]", out arr[i][j]);
+                    }
                 }
             }
         }
+   
 
         private static void printArr(ref int[][] arr)
         {

@@ -14,11 +14,27 @@ namespace lab_5
             InputFunctions.ReadInput("количество столбцов массива", out col);
             int[,] arr = new int[row, col];
             Random rand = new Random();
+
+            if (row == 0 || col == 0)
+            {
+                Console.WriteLine("Таблица пустая!");
+            }
+
+            Console.WriteLine("Выберите способ заполнения: 0. Рандомные числа. 1.Числа с клавиатуры:");
+            uint fillMethod;
+            InputFunctions.ReadInput("0-1", out fillMethod);
+
             for (var i = 0; i < arr.GetLength(0); i++)
             {
                 for (var j = 0; j < arr.GetLength(1); j++)
                 {
-                    arr[i, j] = rand.Next() % 1000;
+                    if (fillMethod == 1)
+                    {
+                        arr[i, j] = rand.Next() % 1000;
+                    } else
+                    {
+                        InputFunctions.ReadInput($"arr[{i}, {j}]", out arr[i, j]);
+                    }
                 }
             }
             printArr(ref arr);

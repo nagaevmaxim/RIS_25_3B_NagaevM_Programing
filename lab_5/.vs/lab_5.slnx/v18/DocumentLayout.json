@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\maxim\\source\\repos\\lab_5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E629EB6F-651A-1429-1C83-DA2361FA042C}|lab_5\\lab_5.csproj|c:\\users\\maxim\\source\\repos\\lab_5\\lab_5\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E629EB6F-651A-1429-1C83-DA2361FA042C}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E629EB6F-651A-1429-1C83-DA2361FA042C}|lab_5\\lab_5.csproj|c:\\users\\maxim\\source\\repos\\lab_5\\lab_5\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E629EB6F-651A-1429-1C83-DA2361FA042C}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E629EB6F-651A-1429-1C83-DA2361FA042C}|lab_5\\lab_5.csproj|c:\\users\\maxim\\source\\repos\\lab_5\\lab_5\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E629EB6F-651A-1429-1C83-DA2361FA042C}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E629EB6F-651A-1429-1C83-DA2361FA042C}|lab_5\\lab_5.csproj|c:\\users\\maxim\\source\\repos\\lab_5\\lab_5\\inputfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E629EB6F-651A-1429-1C83-DA2361FA042C}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\inputfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E629EB6F-651A-1429-1C83-DA2361FA042C}|lab_5\\lab_5.csproj|c:\\users\\maxim\\source\\repos\\lab_5\\lab_5\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E629EB6F-651A-1429-1C83-DA2361FA042C}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E629EB6F-651A-1429-1C83-DA2361FA042C}|lab_5\\lab_5.csproj|c:\\users\\maxim\\source\\repos\\lab_5\\lab_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E629EB6F-651A-1429-1C83-DA2361FA042C}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E629EB6F-651A-1429-1C83-DA2361FA042C}|lab_5\\lab_5.csproj|c:\\users\\maxim\\source\\repos\\lab_5\\lab_5\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E629EB6F-651A-1429-1C83-DA2361FA042C}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,62 +30,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "task1.cs",
               "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\lab_5\\lab_5\\task1.cs",
               "RelativeDocumentMoniker": "lab_5\\task1.cs",
               "ToolTip": "C:\\Users\\maxim\\source\\repos\\lab_5\\lab_5\\task1.cs",
               "RelativeToolTip": "lab_5\\task1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-30T09:21:42.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "task3.cs",
               "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\lab_5\\lab_5\\task3.cs",
               "RelativeDocumentMoniker": "lab_5\\task3.cs",
               "ToolTip": "C:\\Users\\maxim\\source\\repos\\lab_5\\lab_5\\task3.cs",
               "RelativeToolTip": "lab_5\\task3.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-30T15:37:05.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "task2.cs",
               "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\lab_5\\lab_5\\task2.cs",
               "RelativeDocumentMoniker": "lab_5\\task2.cs",
               "ToolTip": "C:\\Users\\maxim\\source\\repos\\lab_5\\lab_5\\task2.cs",
               "RelativeToolTip": "lab_5\\task2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T10:00:57.11Z"
+              "WhenOpened": "2026-09-30T10:00:57.11Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "InputFunctions.cs",
               "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\lab_5\\lab_5\\InputFunctions.cs",
               "RelativeDocumentMoniker": "lab_5\\InputFunctions.cs",
               "ToolTip": "C:\\Users\\maxim\\source\\repos\\lab_5\\lab_5\\InputFunctions.cs",
               "RelativeToolTip": "lab_5\\InputFunctions.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-29T16:59:18.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\lab_5\\lab_5\\Program.cs",
               "RelativeDocumentMoniker": "lab_5\\Program.cs",
@@ -93,7 +94,8 @@
               "RelativeToolTip": "lab_5\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T16:59:04.764Z"
+              "WhenOpened": "2026-09-29T16:59:04.764Z",
+              "EditorCaption": ""
             }
           ]
         }
